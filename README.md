@@ -1,6 +1,6 @@
 # Vehicle Rental System
 
-**Live Deployment:** https://rental-system-rust.vercel.app/
+**Live Deployment:** https://rental-system-rust.vercel.app
 
 ##  Project Overview
 
