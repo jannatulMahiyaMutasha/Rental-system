@@ -1,6 +1,6 @@
 # Vehicle Rental System
 
-**Live Deployment:** https://vehicle-rental-system-backend-ruddy.vercel.app/
+**Live Deployment:** https://rental-system-rust.vercel.app/
 
 ##  Project Overview
 
